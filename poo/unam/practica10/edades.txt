@@ -1,0 +1,3 @@
+Edad: 17
+Edad: 30
+Edad: 120
